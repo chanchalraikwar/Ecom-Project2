@@ -25,14 +25,14 @@ export class ProductService {
     return this.http.delete(`http://localhost:3000/product/${id}`)
   }
   getproduct(id: string ) {
-    return this.http.get<product>(`http://localhost:3000/product/${id}`)
+    return this.http.get<product>(`http://localhost:3000/products/${id}`)
   }
 
   updateproduct(product: product) {
-    return this.http.put<product>(`http://localhost:3000/product/${product.id}`, product)
+    return this.http.put<product>(`http://localhost:3000/products/${product.id}`, product)
   }
   popularProducts() {
-    return this.http.get<product[]>("http://localhost:3000/product?_limit=3")
+    return this.http.get<product[]>("http://localhost:3000/products?_limit=3")
   }
   searchproducts(query: string) {
     return this.http.get<product[]>(`http://localhost:3000/product?q=${query}`)
