@@ -1,0 +1,211 @@
+{
+  "seller": [
+    {
+      "id": "d627",
+      "name": "Abeer Raikwar",
+      "password": "pass@123",
+      "email": "abc1@123"
+    },
+    {
+      "id": "dc32",
+      "name": "Abeer Raikwarfdsfs",
+      "password": "pass@123",
+      "email": "abc1@123"
+    },
+    {
+      "id": "37ba",
+      "name": "fdsf",
+      "password": "fdsfd",
+      "email": "Temp1@gmail.com"
+    },
+    {
+      "id": "bd75",
+      "name": "gfds",
+      "password": "fsdfsdf",
+      "email": "chanchal.raikwar@gmail.com"
+    },
+    {
+      "id": "d88b",
+      "name": "fdsfd",
+      "password": "fdsf",
+      "email": "fdsfs"
+    },
+    {
+      "id": "0e45",
+      "name": "fdsf",
+      "password": "fds",
+      "email": "fds"
+    },
+    {
+      "id": "a260",
+      "name": "Chanchal",
+      "password": "Pas@123",
+      "email": "chanchal.raikwar@gmail.com"
+    },
+    {
+      "id": "3818",
+      "name": "fsdfsd",
+      "password": "fsdf",
+      "email": "fsdf"
+    },
+    {
+      "id": "e8fc",
+      "name": "fdsf",
+      "password": "fdsf",
+      "email": "fds"
+    },
+    {
+      "id": "e242",
+      "name": "fdsfsd",
+      "password": "fdsf",
+      "email": "fsdf"
+    },
+    {
+      "id": "01fc",
+      "name": "fdfsdffffff",
+      "password": "eeeee",
+      "email": "chanchal.raikwar@gmail.com"
+    },
+    {
+      "id": "db3a",
+      "name": "fdsf",
+      "password": "fds",
+      "email": "fds"
+    },
+    {
+      "id": "3d17",
+      "name": "fdsf",
+      "password": "fdsf",
+      "email": "fds"
+    },
+    {
+      "id": "f535",
+      "email": "jt.raikwar@gmail.com",
+      "password": "fdsf"
+    },
+    {
+      "id": "24e2",
+      "email": "jt.raikwar@gmail.com",
+      "password": "fdffdfd"
+    },
+    {
+      "id": "1396",
+      "name": "Chanchal Raikwar",
+      "password": "wwwww",
+      "email": "rrrrr"
+    },
+    {
+      "id": "a44e",
+      "name": "Chanchal",
+      "password": "wwwww",
+      "email": "chanchal.raikwar@gmail.com"
+    },
+    {
+      "id": "3e27",
+      "name": "Chanchal Raikwar",
+      "password": "12345",
+      "email": "chanchal.raikwar@gmail.com"
+    },
+    {
+      "id": "d85f",
+      "name": "Chanchal Raikwar",
+      "password": "12345",
+      "email": "chanchal.raikwar@gmail.com"
+    },
+    {
+      "id": "074b",
+      "name": "",
+      "password": "12345",
+      "email": "chanchal.raikwar@gmail.com"
+    }
+  ],
+  "product": [
+    {
+      "id": "b146",
+      "name": "Purse",
+      "price": "100",
+      "color": "Brown",
+      "category": "Bag",
+      "description": "Designer bag",
+      "image": "https://plus.unsplash.com/premium_photo-1664392147011-2a720f214e01?q=80&w=1478&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "77cf",
+      "name": "Boss Head Phone",
+      "price": "50",
+      "color": "Pink",
+      "category": "Head Phones",
+      "description": "A pair of headphones",
+      "image": "https://plus.unsplash.com/premium_photo-1679913792906-13ccc5c84d44?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Iphone 16",
+      "price": "10000",
+      "color": "red",
+      "category": "Phone",
+      "description": "Iphone",
+      "image": "https://images.pexels.com/photos/6389465/pexels-photo-6389465.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "id": "a58a"
+    }
+  ],
+  "users": [
+    {
+      "id": "eb29",
+      "name": "Chanchal",
+      "email": "chanchal.raikwar@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "8935",
+      "name": "Abeer Raikwar",
+      "email": "abeer@gmail.com",
+      "password": "Exl@2055"
+    },
+    {
+      "id": "9a5b",
+      "name": "Abeer Raikwar",
+      "email": "chanchal.raikwar@gmail.com",
+      "password": "Exl@2055"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3c33",
+      "name": "Boss Head Phone",
+      "price": "50",
+      "color": "Pink",
+      "category": "Head Phones",
+      "description": "A pair of headphones",
+      "image": "https://plus.unsplash.com/premium_photo-1679913792906-13ccc5c84d44?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "quantity": 1,
+      "userId": "fc61",
+      "productId": "77cf"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "email": "chanchal.raikwar@gmail.com",
+      "address": "4675, Westbourne terrace",
+      "contact": "6476863592",
+      "totalPrice": 10350,
+      "userId": "eb29"
+    },
+    {
+      "id": "1",
+      "email": "chanchal.raikwar@gmail.com",
+      "address": "4675, Westbourne terrace",
+      "contact": "6476863592",
+      "totalPrice": 10350,
+      "userId": "eb29"
+    },
+    {
+      "id": "1",
+      "email": "chanchal.raikwar@gmail.com",
+      "address": "4675, Westbourne terrace",
+      "contact": "6476863592",
+      "totalPrice": 10350,
+      "userId": "eb29"
+    }
+  ]
+}
